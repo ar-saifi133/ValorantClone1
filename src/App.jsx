@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <header className='sticky top-0 z-10'>
+      <header className='sticky w-full  overflow-auto top-0 z-10'>
         <Header ></Header>
       </header>
       <Home/>

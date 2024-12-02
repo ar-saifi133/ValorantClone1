@@ -35,7 +35,7 @@ const Home = () => {
         </div>
       </div>
     </section>
-    <section className='h-[593px]' >
+    <section className='h-[593px] overflow-scroll' >
       <div><img src={whiteBack} className=' h-[593px]  absolute -z-10 object-cover' alt="" /></div>
       <div className=' px-10 py-8  '> 
         <div className=' flex justify-between items-center'>
